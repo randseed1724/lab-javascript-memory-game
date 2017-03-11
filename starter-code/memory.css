@@ -22,6 +22,10 @@ font-family: 'Lato', sans-serif !Important;
     letter-spacing: 2px;
 }
 
+.avoidClicks {
+  pointer-events: none;
+}
+
 .mainLevel {
     background-color: rgba(157, 151, 151, 0.62);
     border: 2px solid rgba(0, 0, 0, 0.55);
